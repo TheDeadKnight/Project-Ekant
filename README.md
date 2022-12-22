@@ -4,3 +4,6 @@
 
 # Identification
 ## Skshm - Midnight1938
+
+Pypi speech recogntion - https://pypi.org/project/SpeechRecognition/
+Install using - pip3/pip install SpeechRecognition
